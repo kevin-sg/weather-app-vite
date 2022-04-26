@@ -1,0 +1,10 @@
+@hostname = https://www.metaweather.com/api/
+
+###
+GET {{hostname}}/location/44418
+
+###
+GET {{hostname}}/location/search/?query=london
+
+###
+GET {{hostname}}/api/location/search/?lattlong=36.96,-122.02

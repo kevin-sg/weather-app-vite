@@ -1,0 +1,72 @@
+[
+  {
+    "distance": 3565,
+    "title": "Buenos Aires",
+    "location_type": "City",
+    "woeid": 468739,
+    "latt_long": "-34.608521,-58.373539"
+  },
+  {
+    "distance": 1133289,
+    "title": "Santiago",
+    "location_type": "City",
+    "woeid": 349859,
+    "latt_long": "-33.463039,-70.647942"
+  },
+  {
+    "distance": 1672942,
+    "title": "São Paulo",
+    "location_type": "City",
+    "woeid": 455827,
+    "latt_long": "-23.562880,-46.654659"
+  },
+  {
+    "distance": 1961292,
+    "title": "Rio de Janeiro",
+    "location_type": "City",
+    "woeid": 455825,
+    "latt_long": "-22.976730,-43.195080"
+  },
+  {
+    "distance": 2338377,
+    "title": "Brasília",
+    "location_type": "City",
+    "woeid": 455819,
+    "latt_long": "-15.77846,-47.928661"
+  },
+  {
+    "distance": 3128906,
+    "title": "Salvador",
+    "location_type": "City",
+    "woeid": 455826,
+    "latt_long": "-12.97002,-38.504559"
+  },
+  {
+    "distance": 3132248,
+    "title": "Lima",
+    "location_type": "City",
+    "woeid": 418440,
+    "latt_long": "-12.043600,-77.021217"
+  },
+  {
+    "distance": 4662016,
+    "title": "Bogotá",
+    "location_type": "City",
+    "woeid": 368148,
+    "latt_long": "4.656370,-74.117790"
+  },
+  {
+    "distance": 5090412,
+    "title": "Caracas",
+    "location_type": "City",
+    "woeid": 395269,
+    "latt_long": "10.496050,-66.898277"
+  },
+  {
+    "distance": 5226824,
+    "title": "Maracaibo",
+    "location_type": "City",
+    "woeid": 395270,
+    "latt_long": "10.734450,-71.630562"
+  }
+]

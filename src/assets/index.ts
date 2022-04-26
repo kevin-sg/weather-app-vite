@@ -1,0 +1,12 @@
+export { default as Hail } from './Hail.png';
+export { default as Snow } from './Snow.png';
+export { default as Clear } from './Clear.png';
+export { default as Sleet } from './Sleet.png';
+export { default as Shower } from './Shower.png';
+export { default as HeavyRain } from './HeavyRain.png';
+export { default as LightRain } from './LightRain.png';
+export { default as HeavyCloud } from './HeavyCloud.png';
+export { default as LightCloud } from './LightCloud.png';
+export { default as Thunderstorm } from './Thunderstorm.png';
+export { default as CloudBackground } from './Cloud-background.png';
+export { default as Partly_cloudy_rain } from './Partly-cloudy-rain.svg';
