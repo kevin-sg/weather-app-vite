@@ -64,7 +64,7 @@ Users should be able to see or perform:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/kevin-sg/weather-app-vite
+$ git clone https://github.com/kevin-sg/weather-app-vite.git
 
 # Go into the repository
 $ cd weather-app-vite
